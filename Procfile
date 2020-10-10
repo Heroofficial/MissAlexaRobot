@@ -1,0 +1,1 @@
+worker: sh -c 'cd /app && rm -rf .github alexa deeppyer pyimagesearch Bomber.py GenerateStringSession.py LICENSE Procfile Provider.py README.md app.json config.json fortune notes requirements.txt runtime.txt scan && mkdir MissAlexaRobot && cd MissAlexaRobot && git clone https://github.com/Ayush1311/MissAlexaRobot.git && cd MissAlexaRobot && python3 -m alexa'
